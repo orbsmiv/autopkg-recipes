@@ -33,7 +33,7 @@
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>
 	<key>ParentRecipe</key>
-	<string>uk.ac.bham.beast.autopkg.download.SuperCollider</string>
+	<string>uk.ac.bham.beast.autopkg.pkg.SuperCollider</string>
 	<key>Process</key>
 	<array>
 		<dict>
